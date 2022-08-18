@@ -1,0 +1,23 @@
+{
+  "name": "NFT # Rock Paper Dust Card45",
+  "symbol": "RPD",
+  "description": "NFT # Rock Paper Dust Card667 - Next Generation of revenue sharing with nft holders trough full decentralisation.",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://dweb.link/ipfs/bafybeidl6aw4r4hal324ouh5q43j3fb3p5gnibzes6b6jvmjepncyyo5ui/45.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+}
